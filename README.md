@@ -13,11 +13,12 @@ Ao realizar a pesquisa de algum país ou estado, é exibido as informações de 
 <img width="1504" height="948" alt="Image" src="https://github.com/user-attachments/assets/25f9da0a-6361-4e97-a7b3-a36593861806" />   
 
 # Tecnologias utilizadas
+
 - Angular
   
--HTML5
+- HTML5
 
--SCSS
+- SCSS
 
 # Autor
 
